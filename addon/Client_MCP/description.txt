@@ -1,0 +1,3 @@
+Title: Client MCP
+Author: Blockland MCP
+Client bridge for Cursor MCP (localhost TCP). Execute scripts, read state, control character, screenshots.
